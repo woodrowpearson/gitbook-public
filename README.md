@@ -1,8 +1,8 @@
-# [The Woodrow Wiki 📚](https://woodrowpearson.gitbook.io/life-wiki/)
+# [The Woodrow Wiki 📚](https://www.woodrow.wiki)
 
 Stuff I've made. Stuff I've found. All stuff I want to share!
 
-If you are reading this from GitHub, for a better experience go to [https://www.woodrow.wiki](woodrow.wiki).
+If you are reading this from GitHub, for a better experience go to [woodrow.wiki](https://www.woodrow.wiki).
 
 ## Other Github Wikis
 
