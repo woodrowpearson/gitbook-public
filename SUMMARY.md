@@ -4,6 +4,7 @@
   - [Worflow & Structure](meta/workflow-struct.md)
 - [Woodrow](woodrow/aboutme.md)
 - [Cheatsheets](awesome-cheatsheets/awesome-cheatsheets.md)
+  -[Awesome-Cheatsheets](awesome-cheatsheets/cheatsheets.md)
 - [Life](life/life.md)
   - [Near Death Experienceas](life/NDE.md)
   - [Memories](life/memories.md)
