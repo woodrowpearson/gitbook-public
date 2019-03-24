@@ -1,1 +1,3 @@
-{% include "git+https://raw.githubusercontent.com/LeCoupa/awesome-cheatsheets/master/README.md#master %}
+# Awesome Cheatsheets!
+
+{% include "git+https://raw.githubusercontent.com/LeCoupa/awesome-cheatsheets.git/master/README.md#master %}
