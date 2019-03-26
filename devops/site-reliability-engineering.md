@@ -1,4 +1,6 @@
-# [Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_Reliability_Engineering)
+# Site Reliability Engineering
+
 TODO
+
 ## Links
 

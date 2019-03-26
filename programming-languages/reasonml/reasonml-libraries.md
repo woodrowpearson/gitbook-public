@@ -2,4 +2,5 @@
 
 ## Other
 
-- [bs-decode](https://github.com/mlms13/bs-decode) - Type-safe JSON decoding for ReasonML and OCaml.
+* [bs-decode](https://github.com/mlms13/bs-decode) - Type-safe JSON decoding for ReasonML and OCaml.
+

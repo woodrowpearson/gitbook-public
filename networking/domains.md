@@ -2,5 +2,6 @@
 
 ## Links
 
-- [Google Domains](https://domains.google/)
-- [Zeit Domains](https://zeit.co/domains)
+* [Google Domains](https://domains.google/)
+* [Zeit Domains](https://zeit.co/domains)
+

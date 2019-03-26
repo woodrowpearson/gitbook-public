@@ -1,4 +1,4 @@
-# Wiki Meta Content
+# Worflow & Structure
 
 ## Wiki Workflow
 
@@ -6,7 +6,7 @@ The entire wiki is one folder that you can find on [GitHub](https://github.com/n
 
 The order with which GitBook renders the files in the sidebar to your left is defined in [SUMMARY.md](https://github.com/woodrowpearson/gitbook-public/blob/master/SUMMARY.md)
 
-I write &  edit all the markdown files in this wiki using [iTerm 2](../macos/macos-apps/iterm) with [Neo Vim](https://github.com/neovim/neovim).
+I write & edit all the markdown files in this wiki using [iTerm 2](https://github.com/woodrowpearson/gitbook-public/tree/d77412653779627730c1ac82bc18f41e47efbcd8/macos/macos-apps/iterm/README.md) with [Neo Vim](https://github.com/neovim/neovim).
 
 ## Content Structure
 

@@ -2,4 +2,5 @@
 
 ## Links
 
-- [Curry](https://github.com/LSaldyt/curry) - Prototype for a quantum probabilistic programming language.
+* [Curry](https://github.com/LSaldyt/curry) - Prototype for a quantum probabilistic programming language.
+

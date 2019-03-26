@@ -1,4 +1,4 @@
-# [GitBook](https://www.gitbook.com)
+# GitBook
 
 The tool I use to render all the markdown files in this wiki.
 
@@ -10,14 +10,15 @@ Similar to how I took Yoshua's idea with his [original knowledge repo](https://g
 
 ## Cool things GitBook has
 
-- [Plugins](https://toolchain.gitbook.com/) - Extend your GitBook with useful things.
-- [GitBook explore](https://www.gitbook.com/explore) - Find books made by other people.
+* [Plugins](https://toolchain.gitbook.com/) - Extend your GitBook with useful things.
+* [GitBook explore](https://www.gitbook.com/explore) - Find books made by other people.
 
 ## Plugins I like
 
-- [KaTex](https://plugins.gitbook.com/plugin/katex) - To insert LaTeX, surround LaTeX code with `$$`.
+* [KaTex](https://plugins.gitbook.com/plugin/katex) - To insert LaTeX, surround LaTeX code with `$$`.
 
 ## Links
 
-- [rustbook](https://github.com/steveklabnik/rustbook) - Alternative to GitBook in Rust.
-- [Implementing GitBook to manage open source documentation](https://blog.strapi.io/gitbook-open-source-documentation/)
+* [rustbook](https://github.com/steveklabnik/rustbook) - Alternative to GitBook in Rust.
+* [Implementing GitBook to manage open source documentation](https://blog.strapi.io/gitbook-open-source-documentation/)
+

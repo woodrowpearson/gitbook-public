@@ -1,5 +1,6 @@
-# [tvOS](https://developer.apple.com/tvos/)
+# tvOS
 
 ## Links
 
-- [Twitch tvOS client](https://github.com/notbenoit/tvOS-Twitch)
+* [Twitch tvOS client](https://github.com/notbenoit/tvOS-Twitch)
+

@@ -10,9 +10,9 @@ I use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/mas
 
 ## ~/Documents
 
-All my actual documents (books, papers..) are put there. The folder synced with iCloud and I often access it from my phone via Spotlight search.
+All my actual documents \(books, papers..\) are put there. The folder synced with iCloud and I often access it from my phone via Spotlight search.
 
-```Bash
+```bash
 ~/Documents
 ❯ exa
 App  AudioBooks  Books  Design  Gumroad  Papers  PDFs  Pixave  Research
@@ -28,7 +28,7 @@ I use [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/mas
 
 Everything that is code is put into this folder.
 
-```Bash
+```bash
 ~/src
 ❯ exa
 alfred  bots  build-to-learn  clones  curated  games  ideas  languages  libs  models  nix  orgs  personal  puzzles  scripts  test  vim-plugins  vscode-extensions  web  Xcode
@@ -44,7 +44,7 @@ I then filter contents of the folder with [this workflow](https://github.com/nik
 
 Inside this folder I keep all code from orgs I am working on.
 
-```Bash
+```bash
 ~/src/orgs
 ❯ exa
 deedmob  enpicom  learn-anything
@@ -54,7 +54,7 @@ deedmob  enpicom  learn-anything
 
 Inside this folder I have a bunch of language specific folders that usually just have one file inside them with the extension of that language. Here is how that folder looks for me:
 
-```Bash
+```bash
 ~/src/test
 ❯ exa
 bash-test  c-test  clojure-test  docker-test  go-test  haskell-test  js-test  lisp-test  nix-test  python-test  react-test  ruby-test  ts-test
@@ -70,7 +70,7 @@ And I use [VS Code CodeRunner](https://github.com/formulahendry/vscode-code-runn
 
 Contains all my Swift iOS and macOS projects.
 
-```Bash
+```bash
 ~/src/Xcode
 ❯ a
 iOS  macOS  playgrounds  safari-extensions
@@ -80,7 +80,7 @@ iOS  macOS  playgrounds  safari-extensions
 
 I use the folder to build and learn new things by implementing it. Perhaps I am completing some course or going through some book that has exercises. I put it there.
 
-```Bash
+```bash
 ~/src/build-to-learn
 ❯ exa
 README.md go tsc
@@ -90,7 +90,7 @@ README.md go tsc
 
 All my Alfred workflows are placed there. And each one is symlinked with [workflow-install](https://gist.github.com/deanishe/35faae3e7f89f629a94e).
 
-```Bash
+```bash
 ~/src/alfred
 ❯ exa
 alfred-ask-create-share  alfred-awesome-lists  alfred-github  alfred-learn-anything  alfred-my-mind  alfred-npm  alfred-timer  alfred-trello  alfred-web-searches  small-workflows
@@ -98,7 +98,7 @@ alfred-ask-create-share  alfred-awesome-lists  alfred-github  alfred-learn-anyth
 
 ## ~/src/curated
 
-Keep all the GitHub [curated lists](https://github.com/learn-anything/curated-lists#readme) there where all edits to the `README.md` files is automatically committed with [Hazel](../macOS/apps/hazel.md).
+Keep all the GitHub [curated lists](https://github.com/learn-anything/curated-lists#readme) there where all edits to the `README.md` files is automatically committed with [Hazel](https://github.com/woodrowpearson/life-wiki/tree/16a9361766d9d55fd3abb798fd99d739e033361c/macOS/apps/hazel.md).
 
 ```bash
 ~/src/curated
@@ -110,7 +110,7 @@ books             command-line-tools  documentaries  forums              images 
 
 ## ~/Dropbox
 
-Use Dropbox to sync configuration files. I also keep this wiki in `Write` dir in Dropbox so I can edit it on the phone with [Ulysses](../macOS/apps/ulysses.md).
+Use Dropbox to sync configuration files. I also keep this wiki in `Write` dir in Dropbox so I can edit it on the phone with [Ulysses](https://github.com/woodrowpearson/life-wiki/tree/16a9361766d9d55fd3abb798fd99d739e033361c/macOS/apps/ulysses.md).
 
 ```bash
 ~/Dropbox
@@ -120,4 +120,5 @@ Alfred  Apps  Config  History  IFTTT  Shared  Shares  TaskPaper  Temp Shares  up
 
 ## Links
 
-- [Ask HN: How do you organise your hard drive? (2018)](https://news.ycombinator.com/item?id=18836472)
+* [Ask HN: How do you organise your hard drive? \(2018\)](https://news.ycombinator.com/item?id=18836472)
+

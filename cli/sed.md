@@ -1,5 +1,6 @@
-# [Sed](https://www.gnu.org/software/sed/manual/sed.html)
+# sed
 
 ## Links
 
-- [Intro to Sed](http://www.grymoire.com/Unix/Sed.html)
+* [Intro to Sed](http://www.grymoire.com/Unix/Sed.html)
+

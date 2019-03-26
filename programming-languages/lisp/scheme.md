@@ -1,6 +1,7 @@
-# [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language))
+# Scheme
 
 ## Links
 
-- [The Scheme Programming Language book](https://www.scheme.com/tspl4/)
-- [Gambit](https://github.com/gambit/gambit) - Efficient implementation of the Scheme programming language.
+* [The Scheme Programming Language book](https://www.scheme.com/tspl4/)
+* [Gambit](https://github.com/gambit/gambit) - Efficient implementation of the Scheme programming language.
+

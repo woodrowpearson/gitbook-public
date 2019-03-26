@@ -2,4 +2,5 @@
 
 ## Links
 
-- [Awesome design patterns](https://github.com/DovAmir/awesome-design-patterns#readme)
+* [Awesome design patterns](https://github.com/DovAmir/awesome-design-patterns#readme)
+

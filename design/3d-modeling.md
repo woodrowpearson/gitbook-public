@@ -1,5 +1,6 @@
-# 3D modeling
+# 3D Modeling
 
 ## Links
 
-- [Dust3D](https://github.com/huxingyi/dust3d) - Cross-platform open-source 3D modeling software.
+* [Dust3D](https://github.com/huxingyi/dust3d) - Cross-platform open-source 3D modeling software.
+
