@@ -13,7 +13,7 @@
 * [Writing](writing/README.md)
   * [Markdown](writing/markdown.md)
 * [Art](art/README.md)
-  * [Tattoos](art/tattoos.md)
+  * [Tattoos](art/tattoos/tattoos.md)
   * [Test](art/test.md)
 * [macOS](macos/README.md)
   * [macOS Apps](macos/macos-apps/README.md)
