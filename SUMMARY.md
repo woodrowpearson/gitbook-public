@@ -13,6 +13,7 @@
   - [Markdown](writing/markdown.md)
 - [Art](art/art.md)
   - [Tattoos](art/tattoos.md)
+  - [Test](art/test.md)
 - [macOS](macOS/macOS.md)
   - [macOS Apps](macOS/apps/macOS-apps.md)
     - [Alfred](macOS/apps/alfred/alfred.md)
