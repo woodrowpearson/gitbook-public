@@ -11,6 +11,8 @@
   - [Depression](life/depression.md)
 - [Writing](writing/writing.md)
   - [Markdown](writing/markdown.md)
+- [Art](art/art.md)
+  - [Tattoos](art/tattoos.md)
 - [macOS](macOS/macOS.md)
   - [macOS Apps](macOS/apps/macOS-apps.md)
     - [Alfred](macOS/apps/alfred/alfred.md)
