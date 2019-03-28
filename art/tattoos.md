@@ -24,6 +24,10 @@ The tattoo industry has grown immensely in the last decade. I won't comment on w
 
 ![](../.gitbook/assets/the-wolf-rosario-08.jpg)
 
+[Louis Loveless](https://scene360.com/art/106353/louis-loveless-tattoos/)
+
+![](../.gitbook/assets/louis-loveless-12.jpg)
+
 #### 
 
 #### 
