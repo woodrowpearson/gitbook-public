@@ -2,15 +2,13 @@
 
 ## About Me
 
-This feel like I am writing a Tinder bio.
+Woody (me) has been an SRE/tools dev that evolved from an Ad management role at Digg. From Ad management to Jr. Engineer at SocialCode I continued to develop and find what areas I was drawn to. At Uber I was in an SRE role for my entire time employed. I continued tool, deployment, but parrticularly project management at Pandora. And, as of late 2019 util present I have split my time as SRE for a small company, teach high school, and coach boys high school basketball.
 
-Anyways.. I geek out on technical writing, container & orchestration technologies, and automation. Living in Seattle right now.
+## Journaling on [Write.as](https://write.as/heywoods/).
 
-## Blog on [Write.as](https://write.as/heywoods/).
-
-## Snippets on :octocat: [GitHub Gists](https://gist.github.com/search?q=user%3Anikitavoloboev)
+## Snippets on :octocat: [GitHub Gists](https://gist.github.com/woodrowpearson)
 
 ## Photos of my 🐶 on [Instagram](https://www.instagram.com/woodrow_pearson/).
 
-## My professional pedigree on [💩LinkedIn💩](https://www.linkedin.com/in/woodrowpearson/).
+## My [LinkedIn](https://www.linkedin.com/in/woodrowpearson/).
 
