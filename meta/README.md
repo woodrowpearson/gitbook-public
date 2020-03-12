@@ -1,6 +1,6 @@
 # Meta
 * [Will Larson](http://lethain.com/)
-* [Evan Klitzke(https://eklitzke.org/)
+* [Evan Klitzke](https://eklitzke.org/)
 * [Aizat Faiz](https://www.aizatto.com/)
 * [Devine Lu Linvega](https://wiki.xxiivv.com)
 * [Yoshua Wuyts](https://yoshuawuyts.gitbooks.io/knowledge/content/)
