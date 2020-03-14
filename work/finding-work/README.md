@@ -1,38 +1,16 @@
 # Finding work
 
-This article on [Interviewing, applying and getting your first job in iOS](http://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews) is superb.
+If you are new to the industry or just starting out it can feel overwhelming trying to find a full time job; especially if you don't have the pedigree or even a CS degree. I really like this ["Find Work Programming List"](https://github.com/nikitavoloboev/find-work#readme) by Nikita.
 
-I made a curated list of ways to prepare and places to look to [find work programming](https://github.com/nikitavoloboev/find-work#readme).
+I have used [LinkedIn](https://www.linkedin.com) & [Hired](https://www.hired.com) & I have heard from friends they have had success with [Triplebyte](https://triplebyte.com) & the [monthly HN: Who is hiring? threads](https://kennytilton.github.io/whoishiring/).
 
-I use [LinkedIn](https://www.linkedin.com) & [Angellist](https://angel.co) and the [monthly HN: Who is hiring? threads](https://kennytilton.github.io/whoishiring/) for finding interesting work opportunities to apply to.
+My resumé/CV came together from looking over hundreds of otheer CV's of applicants & particularly design choice to incorporate an avatar to my resume from [Martha Kelly](https://twitter.com/marthakelly). [My resume as of 03/14/2020](https://drive.google.com/file/d/1oMNTEUTCtsxk3Qt2zgC0TR5cFRJY1Xeu/view?usp=sharing) I have seen others using [Awesome CV](https://github.com/posquit0/Awesome-CV) template in [LaTeX](https://github.com/nikitavoloboev/cv#readme).
 
-I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://github.com/posquit0/Awesome-CV) template in [LaTeX](https://github.com/nikitavoloboev/cv#readme).
+Don't embellish or lie on your CV. But don't be intimidated to add to your CV something you may not find noteworthy. Impostor syndrome is a terrible mind game many in our field of work deal with. Don't let it stop you from putting a polished CV together and applying. You will never get a job if you don't apply. It's all a numbers game, even for industry seniors.
 
-Sometimes the most effective way to apply is to apply directly. Go to the website of the company you want to apply to and see if there is a `Jobs` section present somewhere and apply through it. You can also send a direct email to the company's hiring management or if it's a startup, you can send an email to the Founder directly.
+## Meetups
 
-I use a similar message for all my direct emails:
-
-```text
-Hi ..,
-
-I saw you're looking for a .. at .. and I'm interested in joining your team.
-
-{Why I want to join and think I am good fit..}
-
-I attached my CV for further information, let me know if you'd be interested in talking.
-
-Best
-Nikita
-```
-
-Never let impostor syndrome or anything else stop you from applying to your dream jobs. Most requirements placed on the job boards are not set in stone. If you know how to learn fast and know things already that are related, apply! Don't let rejections discourage you, ever. It's a numbers game and the first jobs are always the hardest to get.
-
-My other favorite way of finding interesting work opportunities is meeting and interacting with people personally through various events and getting to know what they're building.
-
-## Notes
-
-* Sort by newest jobs in websites and check regularly and apply then.
-* [If asked previous salary, you can answer `As per contract, I'm not at liberty to disclose this.`.](https://www.reddit.com/r/cscareerquestionsEU/comments/9ohap7/uk_company_asking_about_current_salary_up_front/)
+Find meetups in your city where the topic is an area you want to work in. I can't stress the importance of networking. I won't 100% agree with the old saying, "It's who you know, not what you know." But there is some truth to that statement; especially with respect to getting thee intitial interview and foot in the door.
 
 ## Links
 
