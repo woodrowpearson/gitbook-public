@@ -1,4 +1,7 @@
 # Meta
+
+These are other brilliant people I have learned so much from. Some are personal friends, others complete strangers. They all are worth checking out!
+
 * [Will Larson](http://lethain.com/)
 * [Evan Klitzke](https://eklitzke.org/)
 * [Aizat Faiz](https://www.aizatto.com/)
