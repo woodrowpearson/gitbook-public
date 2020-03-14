@@ -2,7 +2,7 @@
 
 ## Wiki Workflow
 
-The entire wiki is one folder that you can find on [GitHub](https://github.com/nikitavoloboev/knowledge). It has many folders with subfolders or entries inside.
+The entire wiki is one folder that you can find on [GitHub](https://github.com/woodrowpearson/gitbook-public). It has many folders with subfolders or entries inside. Most are related to the tech world but this site is also a personal space where I save and share other things or about myself.
 
 The order with which GitBook renders the files in the sidebar to your left is defined in [SUMMARY.md](https://github.com/woodrowpearson/gitbook-public/blob/master/SUMMARY.md)
 
