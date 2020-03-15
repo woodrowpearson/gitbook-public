@@ -1,6 +1,94 @@
 # Site Reliability Engineering
 
-TODO
+## Defined
+
+A Site Reliability Engineer is a Software Engineer with strong systems and operational skills in one or more functional domains, where the domain may range from Databases to Networking. Most importantly, they have a passion in designing and maintaining highly reliable systems. Empirically, strong engineers with this skillset and passion tend to be a rare and selective breed.
+
+### Why do we need an SRE?
+
+It is easy to accumulate operational debt when designing and building systems. Operational debt stems from designing systems that require significant amount of manual care and feeding to keep them highly available. As the complexity between systems increases, not only is it inefficient to hire more Ops people, the cognitive overhead of reasoning about interactions between systems makes it impossible for a team to make the right decisions, quickly.
+
+So, we instead staff what is usually an operational team with Software Engineers who can build systems that are able to distill the operational realities of complex systems into simpler, high level primitives that we can reason about and help them self-heal.
+
+## SRE Responsibilities
+
+Responsibilities
+An SRE team will partner with a development team to operate a service at scale, at high levels of reliability & performance. This inncludes a deep involvement in:
+●	System Architecture, including upstream and downstream dependencies
+●	Deployment & Change Management, Canary and Release process
+●	Resiliency strategy, such as Load and Failure testing.
+●	Capacity Planning, Turnups and Turndowns.
+●	Performance, Efficiency & Scaling, including Availability and Latency 
+●	Instrumentation, Monitoring, Alerting & Reporting on key metrics and SLAs
+●	Incident Response (improving the oncall experience, tools, and procedures) and Postmortem followup to honor the SLA
+●	Operational Readiness, such as Runbooks and other Documentation, Escalation Paths, and Incident Response Training exercises. 
+
+# So what makes a "great" SRE?
+
+First things first… we are here to serve our users, both our engineers who depend on us and more importantly the user of your companies product. But we care about them all. 
+
+This is why reliability, and the SRE role, have so much value to these users? What is the cost of an outage for user, the company? What do delays and downtime cost? What does high latency cost? What happens when our apps aren’t fast and responsive? Do they get annoyed, fire your company, go to a competitor?
+
+The most fierce attitude you can have as an SRE is deep care for our users (see “Customer Obsession”). When you’re reasoning through architecture and incident reviews to manage a service’s risk vectors. Above and beyond all other objectives, as an SRE your responsibility is to the users. 
+
+Also, some services are more important than others. It’s a simple fact that some services are absolutely critical while others are important, but less vital. If it comes down to saving the availability of a critical service over one that is just important, we will save the critical service first. 
+Own the SLA
+The buck stops with us because SRE owns the end-to-end reliability of services in production. There’s no one to escalate to beyond us; we’re the last line of defense. When an outage breaks through our defenses, SRE assumes ownership of the response, command and control, and communicates, as well as follow up issues related to detection, mitigation and prevention of that outage. We ask the question “What prevents this outage from happening again tomorrow? Or next week?” And our responses might be freezing all changes, more aggressive testing, additional checks and balances during rollouts or the launch process, turning down or replacing entire systems, or changing the load distribution patterns for your service. 
+
+There are judgement calls to be made, and the level of the outage incident will determine the priority follow up work vs. all other project work. That means it’s SRE’s responsibility to drive the right changes in services we support to build the most reliable environment possible. We do that either by driving consensus with a dev team(s). The best way to do this is to build an agreement with your dev team on a target SLA for the service, and then track that SLA consistently. Once there’s agreement on a common goal, it’s easy to prioritize across teams and drive the right behavior. 
+
+## SRE is not *Ops
+
+### Engineering
+A lot of what we do is operational, building new instances of services, pushing out binaries and configuration changes, setting up monitoring and alerting, responding to pages, etc. As an engineering org, our goals are to tilt the balance away from operational work. Service developers know a lot about the functions a service provides, but SREs know how that service functions at scale, how it interacts with other services, and if it suites the needs of new infrastructure and production developments. A high functioning SRE team will spend a minimal portion of their collective time performing some small set of operational responsibilities, including an oncall rotation. The rest of their time will be spent making engineering improvements to the functionality of existing systems, or building and deploying new automation and infrastructure tools. We will never automate ourselves out of a job, but that doesn’t mean we shouldn’t try. Basically if you have to do the same thing every week, and you can reduce the time and cognitive load to next to nothing, you’re better off spending time to automate it. That’s weeks of your life back to build systems that replace the hacks and scripts that got us this far, which then gets weeks back for anyone with a similar problem. 
+![](https://imgs.xkcd.com/comics/is_it_worth_the_time_2x.png)
+
+SREs will often develop scripts and libraries, other small tools, glue components, or whatever else is necessary to support day to day operations, or make them suck up less of the team’s time and effort. These things are great first steps towards real automation, but should be viewed as what they are -- technical debt. It’s important that SRE’s also regularly take on larger projects, either by direct effort or influence to make that debt go away. 
+
+The types of engineering projects SREs will typically take on are:
+
+● Make distributed highly available services easier to monitor, and manage.
+● Build and measure SLAs so we can manage time engineer time spent in emergency mode.
+● Drive performance and efficiency efforts to improve user experience.
+● Build growth models for capacity planning and eliminate resource limit or depletion surprises.
+● Improve systems by making use of new infrastructure.
+● Make surgical changes to systems and procedures for better stability (this bug for example)
+
+It’s also not out of the ordinary for SRE’s to build new automation systems, re-engineer critical infrastructure services, or create entirely new services. Building these types of systems should be the goal of every SRE. Software engineering is at the core of how we approach problems. 
+Consulting
+It’s impossible to have a reliably operating system if it’s not designed and built with reliability in mind. SREs will spend a good portion of their time engaging early on projects and partnering with engineers to architect systems that integrate seamlessly with their cloud infrastructure and can scale and fail gracefully. SREs -- through study and experience -- become experts in the failure modes of production systems. In order to build more reliable services, we have to give that hard won knowledge back to the software development lifecycle. All new service engagements should go through a production readiness audit. All new designs should address the fragility of past outages. SREs are there to represent the wisdom we’ve gained and ensure that operations, design, and implementation are reliable. 
+Getting Superpumped with your Dev Team
+You’re going to be working with one or more development teams that are changing the systems that you care about. All the time. Every engagement is different. Sometimes you’re working with a team of high functioning software engineers who care deeply about the release practices and stability of their services, and sometimes it’s an insane new effort taking completely crazy shortcuts and risks to get to a goal as fast as possible. In any of these cases, SREs goal is consistent -- to make the service reliable, maintainable, and scalable. 
+
+There are some important things to keep in mind given these opposing drives:
+		Your dev team cares about users too, but their priorities are different. They care about agility, and you care about stability. This natural tension is good. It’s important. We have to fight for both, and make the right trade-offs without making mistakes, every time. 
+		Sometimes getting the priorities right is hard. In theory you have friends in SRE and in your Dev team, managers, project managers, directors, VPs, etc. who are all there to help you. If you are struggling with a decision, reach out, and talk to someone. 
+		Sometimes radical shifts happen. As an SRE your job is to figure out the real problems. How can you push changes quickly? How can you roll out safely? How will this change impact other systems? Can those other systems support the change? If it’s infeasible, escalate with good technical reasoning sooner rather than later. 
+
+If you’re protecting five nines and your dev team is pissed off it takes six weeks to roll out a change, there’s something wrong. If your dev team is throwing changes out without thinking about best practices, and you’re steadily seeing the rate of outages increasing over time, there’s also something seriously wrong. You and your dev team are responsible for agility *and* stability. It’s important to work together to get things done. 
+
+Sometimes you say no to things to protect a production critical boundary, but often you say yes to things while protecting the right set of principles to keep things stable while moving fast. It’s a judgement call, but remember to stay focused on the users. Too fast, too slow, or the wrong level of reliability can all bite us in the ass. 
+Practical Advice
+		Hope for the best, but plan for the worst. Every service fails, it’s true of your service and every service you depend on. Think about what happens in those failures. Does your service degrade gracefully? Or does it crash and burn with everything else? Is there a way to make it more resilient to failures? Can you backoff exponentially or cache data until your dependencies are back?
+		Understand your service. That means, draw the boxes, understand the architecture and dependencies. Make sure you’ve identified the single points of failure, and the high latency links to other services. These will be important to know in the outages to come.
+		Minimize the blast radius wherever possible. Hosts, racks, pods, and datacenters will have maintenances or outages. New software will have crash loops. Do you need to be N+1 at the datacenter level? Do you need to implement staged rollouts? Contain outages, and plan to do risky things off peak hours for services in the blast radius. These things take engineering work, planning, and coordination -- and even with all that done perfectly, they will still go horribly wrong.
+		Always test your change on one machine before you try it on a hundred or a thousand. Many of our problems could be caught by an industrious engineer testing the change thoroughly on a small scale before rolling out with a script to a thousand machines. Automation is only as good as the thing you make it do. The fact that it does it a thousand times faster is a double edged sword. It can configure those thousand hosts, and let you move on to do other things. Or it can burn them all to the ground in the blink of an eye. Test the service starts, and that it’s ports are listening on the right port number, that it’s monitorable, and will handle requests. Get all the basics right before moving on. 
+		Learn from your mistakes. The postmortem is not a burden, and it’s not a chance to punish someone. It’s a learning opportunity. And as an opportunity, we need to make the most of it as quickly as possible. Own it, jump on it while the data is still fresh and the systems still smoking from whatever caused them to melt down. Drop other things if necessary, this is the most important learning opportunity we have. Don’t point fingers, don’t yell, don’t blame the people who responded and care about our users because mistakes happen. The best case, those actions are unprofessional, and not helpful. The worst case is we become afraid to admit mistakes, which further hurts reliability and creates a poisonous culture. Be hard on the facts of the failure and our response to it, and soft on the people who respond to or cause those failures. This may be a culture shift, and it’s our responsibility to remind people who don’t adhere to this standard. 
+		Know what you’re talking about, and communicate it clearly. Outages lead to requests. We will be placing demands on developers to fix problems. It should go without saying, we need to understand the problem enough to make sure we’re asking for the right thing, and we’re asking for it in a way that another engineer can understand and implement. 
+		Do your research first. It’s OK to not know things. No one knows everything. And honestly, that’s one of the best parts of being an SRE, we get to learn all the time. Failure modes are surprising, bugs are insidious and detailed. It could be because you don’t know some esoteric fact, or because you need to develop a skill that you haven’t developed yet. It doesn’t really matter, you’re here to learn and grow. Find someone that can help you when you don’t know the answer, but make sure you’ve covered everything you know first. 
+		Never assume manual effort is a necessary part of the system. Whatever we’re doing today to keep a system running should be very different than the things we’re doing in a quarter, or in six months, to keep the system running. Be active in evolving production, don’t just make it slower and more complicated.
+		Volumes of metrics monitoring will not get us high reliability. A single alert takes time and effort to tune until the signal to noise ratio is acceptable. Alerts should be simple, because the high cost vs the benefit provided for complex alerting logic basically ensures it will never be implemented (correctly) at scale. Every outage for your service has to be caught by your monitoring - if not, it is a strong indicator that you are monitoring the wrong things. It’s better to focus on blackbox monitoring, even though it provides less coverage. It’s relatively low cost, and provides a much better view of what the user sees. SRE’s time and effort is better spent on improving testing, consulting and developing robust designs, and implementing graceful failure modes. 
+		Understand your dependencies. If there’s something we depend on as part of our job of keeping a service healthy, and we don’t understand it, we need to either remove that thing or dive in deep to completely understand it. Depending on the unknown when it comes to the systems we run, is like depending on Cthulhu to stay asleep. 
+
+And most importantly...
+If all of this advice fails you, talk to other SRE’s. They are the best resource you have for figuring this shit out. 
+
+
+
 
 ## Links
+
+* [Dzone](https://dzone.com/devops-tutorials-tools-news)
+* [Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/)
+* [Augmenting Long-term Memory \(2018\)](http://augmentingcognition.com/ltm.html)
 
