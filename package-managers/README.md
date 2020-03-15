@@ -1,6 +1,6 @@
 # Package managers
 
-I use [nix](nix/) as my package manager on macOS.
+I use [brew](https://brew.sh/) as my package manager on macOS.
 
 ## Links
 
