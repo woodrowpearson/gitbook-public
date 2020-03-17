@@ -3,8 +3,6 @@
   * [About Me](aboutme.md)
 * [Meta](meta/README.md)
   * [Worflow & Structure](meta/workflow-struct.md)
-* [Meta](meta/README.md)
-  * [Worflow & Structure](meta/workflow-struct.md)
 * [Cheatsheets](cheatsheets/README.md)
   * [Awesome-Cheatsheets](cheatsheets/awesome-cheatsheets.md)
 * [Life](life/README.md)
