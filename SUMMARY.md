@@ -1,6 +1,5 @@
 # Table of contents
 * [Introduction](README.md)
-  * [About Me](aboutme.md)
 * [Meta](meta/README.md)
   * [Worflow & Structure](meta/workflow-struct.md)
 * [Cheatsheets](cheatsheets/README.md)
