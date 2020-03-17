@@ -1,9 +1,8 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Woodrow Wiki](aboutme.md)
 * [Meta](meta/README.md)
   * [Worflow & Structure](meta/workflow-struct.md)
-* [Woodrow](aboutme.md)
 * [Cheatsheets](cheatsheets/README.md)
   * [Awesome-Cheatsheets](cheatsheets/awesome-cheatsheets.md)
 * [Life](life/README.md)
