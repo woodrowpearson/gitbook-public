@@ -1,6 +1,6 @@
 # Sublime Text
 
-Use this editor in addition to [VS Code](../vs-code/) and [Neovim](../vim/) for its blazing fast speed of opening files.
+Use this editor in addition to [VS Code]() and [Neovim](../vim/) for its blazing fast speed of opening files.
 
 I use it primarily to edit markdown files like [this wiki](https://github.com/woodrowpearson/life-wiki/tree/16a9361766d9d55fd3abb798fd99d739e033361c/other/wiki-workflow.md). I also edit config files and open large and small files for quick edits.
 

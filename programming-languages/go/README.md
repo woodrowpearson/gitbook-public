@@ -2,7 +2,7 @@
 
 Go is currently my favorite programming language.
 
-I mostly love the tooling around it like [VS Code](../../text-editors/vs-code/) and its [Go plugin](https://github.com/Microsoft/vscode-go). The powerful `go` command line tool and the rich ecosystem of libraries and tools that people have built.
+I mostly love the tooling around it like [VS Code]() and its [Go plugin](https://github.com/Microsoft/vscode-go). The powerful `go` command line tool and the rich ecosystem of libraries and tools that people have built.
 
 Go promotes composition over inheritance.
 

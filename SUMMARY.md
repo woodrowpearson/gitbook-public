@@ -1,4 +1,5 @@
 # Table of contents
+
 * [Introduction](README.md)
 * [Meta](meta/README.md)
   * [Worflow & Structure](meta/workflow-struct.md)
@@ -108,8 +109,8 @@
     * [C libraries](programming-languages/c/c-libraries.md)
   * [Lua](programming-languages/lua.md)
   * [Ruby](programming-languages/ruby.md)
-  * [C++](programming-languages/cpp/README.md)
-    * [C++ libraries](programming-languages/cpp/cpp-libraries.md)
+  * [C++](programming-languages/c++/README.md)
+    * [C++ libraries](programming-languages/c++/c++-libraries.md)
   * [Julia](programming-languages/julia/README.md)
     * [Julia libraries](programming-languages/julia/julia-libraries.md)
   * [Dart](programming-languages/dart/README.md)
