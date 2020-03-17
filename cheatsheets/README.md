@@ -6,5 +6,3 @@ There is an exhaustive [awesome list](https://github.com/topics/awesome-lists) t
 
 ## [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 
-Viewable from within the wiki [here](https://github.com/woodrowpearson/gitbook-public/tree/4c6678244256c70991b15ff258215dc0790783ae/cheatsheets/awesome-cheatsheets/awesome-cheatsheets.md)
-
