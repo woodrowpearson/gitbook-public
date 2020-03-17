@@ -168,7 +168,6 @@
 * [DevOps](devops/README.md)
   * [Site Reliability Engineering](devops/site-reliability-engineering.md)
 * [Home Automation](home-automation.md)
-* [Drugs](drugs.md)
 * [Unix](unix/README.md)
   * [Shell](unix/shell/README.md)
     * [Zsh](unix/shell/zsh/README.md)
