@@ -1,6 +1,6 @@
 # Zsh
 
-My shell of choice. My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/tree/master/zsh).
+My shell of choice. My config for it can be seen [here](https://github.com/woodrowpearson/dotfiles/tree/master/zsh).
 
 ## Notes
 
@@ -12,4 +12,5 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 ## Links
 
 * [Zsh custom widgets](https://sgeb.io/posts/2014/04/zsh-zle-custom-widgets/)
+* [Prezto](https://github.com/sorin-ionescu/prezto) The config framework for Zsh
 
