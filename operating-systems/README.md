@@ -2,8 +2,6 @@
 
 I love using [macOS](https://github.com/woodrowpearson/gitbook-public/tree/d77412653779627730c1ac82bc18f41e47efbcd8/macOS/macOS.md) as my personal OS.
 
-And I really like [NixOS](linux/nixos.md) and it's [nix package manager](../package-managers/nix/).
-
 ## Interesting OSes
 
 * [MirageOS](https://github.com/mirage/mirage) - Library operating system that constructs unikernels.

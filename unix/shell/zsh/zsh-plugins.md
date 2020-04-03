@@ -2,7 +2,7 @@
 
 ## Zsh plugins
 
-I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins](https://github.com/nikitavoloboev/dotfiles/blob/master/zsh/plugins.txt#L1). Below is a list of plugins I use.
+I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins](https://github.com/woodrowpearson/dotfiles-3). Below is a list of plugins I use.
 
 ### Utility
 
@@ -20,11 +20,8 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 
 * [Pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.
 
-### Nix
 
-* [ZSH Completions for Nix and NixOS](https://github.com/spwhitt/nix-zsh-completions) - ZSH Completions for Nix.
-
-## Interesting \(not using\)
+## Interesting Others
 
 ### Utility
 
@@ -38,5 +35,4 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 * [Git sync](https://github.com/caarlos0/zsh-git-sync) - Sync git repositories and clean them up.
 * [Open PR](https://github.com/caarlos0/zsh-open-pr) - Open pull requests from command line.
 * [Git add remote](https://github.com/caarlos0/git-add-remote) - Easily add remotes to git repositories.
-* [Zsh Nix Shell](https://github.com/chisui/zsh-nix-shell) - Use Zsh as the default nix-shell shell.
 

@@ -1,10 +1,10 @@
 # Finding work
 
-If you are new to the industry or just starting out it can feel overwhelming trying to find a full time job; especially if you don't have the pedigree or even a CS degree. I really like this ["Find Work Programming List"](https://github.com/nikitavoloboev/find-work#readme) by Nikita.
+If you are new to the industry or just starting out it can feel overwhelming trying to find a full time job; especially if you don't have the pedigree or even a CS degree.
 
 I have used [LinkedIn](https://www.linkedin.com) & [Hired](https://www.hired.com) & I have heard from friends they have had success with [Triplebyte](https://triplebyte.com) & the [monthly HN: Who is hiring? threads](https://kennytilton.github.io/whoishiring/).
 
-My resumé/CV came together from looking over hundreds of otheer CV's of applicants & particularly design choice to incorporate an avatar to my resume from [Martha Kelly](https://twitter.com/marthakelly). [My resume as of 03/14/2020](https://drive.google.com/file/d/1oMNTEUTCtsxk3Qt2zgC0TR5cFRJY1Xeu/view?usp=sharing) I have seen others using [Awesome CV](https://github.com/posquit0/Awesome-CV) template in [LaTeX](https://github.com/nikitavoloboev/cv#readme).
+My resumé/CV came together from looking over hundreds of other CV's of applicants & particularly design choice to incorporate an avatar to my resume from [Martha Kelly](https://twitter.com/marthakelly). You can see my most recent CV in the header on this site.
 
 Don't embellish or lie on your CV. But don't be intimidated to add to your CV something you may not find noteworthy. Impostor syndrome is a terrible mind game many in our field of work deal with. Don't let it stop you from putting a polished CV together and applying. You will never get a job if you don't apply. It's all a numbers game, even for industry seniors.
 

@@ -1,10 +1,9 @@
 # Vim plugins
 
-## Vim plugins
+## Finding Plugins
+* [Vim Awesome](https://vimawesome.com/) - Awesome Vim plugins. Such a great resource for searching plugins
 
-Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim#L6).
-
-### Utility
+## Utility
 
 * [Ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine.
 * [Cool](https://github.com/romainl/vim-cool) - Stop matching after search is done.
@@ -31,7 +30,6 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ### Looks
 
-* [Monokai Night theme](https://github.com/nikitavoloboev/vim-monokai-night#readme)
 * [Lightline](https://github.com/itchyny/lightline.vim) - Light and configurable statusline/tabline.
 
 ### Nix

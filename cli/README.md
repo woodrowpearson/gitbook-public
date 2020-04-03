@@ -1,6 +1,6 @@
 # CLI
 
-I use [many CLI tools](https://github.com/nikitavoloboev/dotfiles/blob/master/nix/darwin.nix#L6) and share my favorite ones I use [here](https://github.com/nikitavoloboev/my-mac-os#command-line-apps).
+I have a ton of CLI tools installed on my Mac. Too many to list here. Check them all out on my [macOS-setup](https://github.com/woodrowpearson/macOS-setup/blob/master/Brewfile) repo.
 
 ## Links
 

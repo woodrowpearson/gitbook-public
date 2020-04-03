@@ -1,12 +1,6 @@
 # Vim
 
-The best text editing experience you will ever get. It is worth learning it as you will start thinking about text editing differently.
-
-I use some kind of vim bindings in any app I use and if there is a vim plugin for the app, I often use it. I use vim editor often when connecting to remote sessions and when I need a console editor.
-
-I use [Neovim](https://github.com/neovim/neovim) instead of vim and my vimrc can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). And [here](vim-plugins.md) are all the plugins I use with it.
-
-I also use a little trick where I change the cursor from thin block in insert mode to underline when in normal mode. This lets me quickly know which mode I am in.
+The best text editing experience you will ever get... Eventually. It takes a long time for all that muscle memory to build especially if you are coming from an IDE. It is worth learning it as you will start thinking about text editing differently.
 
 ## Notes
 
@@ -16,8 +10,11 @@ I also use a little trick where I change the cursor from thin block in insert mo
 * You're more likely to find useful plugins if you approach it the other way around: I want to do X, vim can't do it nicely by itself, which plugin can help me do it.
 * If something doesn't work in vimrc, put the binding in the bottom of vimrc \(perhaps something overrides it\).
 
-## Links
+## Cheatsheets
+* [VIM quick reference card](http://tnerual.eriogerg.free.fr/vimqrc.html)
 
+## Links
+* [Vim Awesome](https://vimawesome.com/) - Awesome Vim plugins. Such a great resource for searching plugins
 * [You don't grok vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
 * [How to start learning Vim](https://www.reddit.com/r/vim/comments/8fqsju/learning_vim_and_switching_to_it/dy5qkpe/?context=1)
 * [Vim Koans](https://sanctum.geek.nz/arabesque/vim-koans/) - Quite funny.
