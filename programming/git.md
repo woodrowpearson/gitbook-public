@@ -12,6 +12,7 @@ Version control is awesome and learning investing time upping your git game is s
 * Squash + rebase \(for feature branches\) are good for PRs. No one cares that it took you 20 tries to get the feature right, what matters is what went into the pull request, which is usually one commit.
 
 ## Links
+
 * [Github Flow](https://guides.github.com/introduction/flow/) - Found this recently & for teams in 2020 I don't think there is another resource that better explains what good git work flow should look like.
 * [Oh Shit, Git!?!](https://ohshitgit.com/)
 * [Git Book](https://git-scm.com/book/en/v2) - The git bible
@@ -39,3 +40,4 @@ Version control is awesome and learning investing time upping your git game is s
 * [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did.
 * [What are Git Hooks](https://githooks.com/)
 * [Git Happen!](https://about.gitlab.com/blog/2018/08/08/git-happens/) - common mistakes made with git
+

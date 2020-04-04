@@ -11,9 +11,11 @@ The best text editing experience you will ever get... Eventually. It takes a lon
 * If something doesn't work in vimrc, put the binding in the bottom of vimrc \(perhaps something overrides it\).
 
 ## Cheatsheets
+
 * [VIM quick reference card](http://tnerual.eriogerg.free.fr/vimqrc.html)
 
 ## Links
+
 * [Vim Awesome](https://vimawesome.com/) - Awesome Vim plugins. Such a great resource for searching plugins
 * [You don't grok vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
 * [How to start learning Vim](https://www.reddit.com/r/vim/comments/8fqsju/learning_vim_and_switching_to_it/dy5qkpe/?context=1)

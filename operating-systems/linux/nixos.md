@@ -7,7 +7,7 @@ NixOS is a Linux distro built around the Nix package system. Nix is built around
 * Non-privileged users can install software completely securely.
 * Projects packaged with nix have the best possible build reproducibility because nix accounts for ALL of your dependencies all the way down to the lowest level system libraries, compilers, etc.
 
-Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../package-managers/nix/) on macOS. And I am exploring using NixOS for servers I use.
+Whilst I don't use NixOS as my primary OS. I use [nix package manager]() on macOS. And I am exploring using NixOS for servers I use.
 
 ## Nix configs \(Linux\)
 

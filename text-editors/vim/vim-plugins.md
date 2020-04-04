@@ -1,6 +1,7 @@
 # Vim plugins
 
 ## Finding Plugins
+
 * [Vim Awesome](https://vimawesome.com/) - Awesome Vim plugins. Such a great resource for searching plugins
 
 ## Utility

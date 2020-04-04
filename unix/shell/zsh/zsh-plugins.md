@@ -20,7 +20,6 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 
 * [Pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.
 
-
 ## Interesting Others
 
 ### Utility

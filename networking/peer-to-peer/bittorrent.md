@@ -7,7 +7,5 @@
 
 ## Torrent Sites
 
-* [IPTorrents](https://iptorrents.com) - This private community has some of the highest quality and largest library of content of any private site. Message me for an invite :)
-
-
+* [IPTorrents](https://iptorrents.com) - This private community has some of the highest quality and largest library of content of any private site. Message me for an invite :\)
 
