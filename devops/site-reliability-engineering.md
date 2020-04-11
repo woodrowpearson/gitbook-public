@@ -1,5 +1,15 @@
 # Site Reliability Engineering
 
+## Links
+Doing this page a little different because the SRE masters and their free
+bibles should be at the top. My opinions come second.
+
+* [Google's Collection of books on SRE](https://landing.google.com/sre/books/)
+* ***[Building Secure and Reliable Systems](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/SRS.pdf)
+* [Dzone](https://dzone.com/devops-tutorials-tools-news)
+* [Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/)
+* [Augmenting Long-term Memory \(2018\)](http://augmentingcognition.com/ltm.html)
+
 ## Site Reliability Engineering
 
 ### Defined
@@ -50,9 +60,5 @@ Sometimes you say no to things to protect a production critical boundary, but of
 
 And most importantly... If all of this advice fails you, talk to other SRE’s. They are the best resource you have for figuring this shit out.
 
-### Links
 
-* [Dzone](https://dzone.com/devops-tutorials-tools-news)
-* [Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/)
-* [Augmenting Long-term Memory \(2018\)](http://augmentingcognition.com/ltm.html)
 
