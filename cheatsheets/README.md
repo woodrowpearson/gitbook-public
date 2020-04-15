@@ -2,7 +2,10 @@
 
 ## Awesome Gists
 
-### My Gists. Not as awesome, but pretty rad.
+[Awesome Gists](https://github.com/vsouza/awesome-gists)
+
+### My Gists. Not as awesome, but a couple are pretty rad.
+
 #### ![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png) [GitHub Gists](https://gist.github.com/woodrowpearson)
 
 ## Awesome Lists
