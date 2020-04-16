@@ -9,6 +9,7 @@
   * [Markdown](writing/markdown.md)
 * [Art](art/README.md)
   * [Tattoos](art/tattoos.md)
+  * [Music](art/music.md)
 * [macOS](macos/README.md)
   * [macOS Apps](macos/macos-apps/README.md)
     * [Alfred](macos/macos-apps/alfred/README.md)
