@@ -8,12 +8,10 @@
 * [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
 * [Tornado](https://www.tornadoweb.org/en/stable/) - Python web framework and asynchronous networking library.
 
-
 ## ML
 
 * [JAX](https://github.com/google/jax) - GPU- and TPU-backed NumPy with differentiation and JIT compilation.
 * [Autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
-
 
 ## Other
 

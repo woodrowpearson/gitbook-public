@@ -6,6 +6,5 @@ This site is my attempt to organize and digest the flood of information I have c
 
 Hi! I'm Woodrow, or Woody for short. I have been a practicing developer for about 7 years with most roles being infrastructure or SRE roles. If you're bored you can read more about me on my LinkedIn.
 
-#### ![](.gitbook/assets/wood_cover.JPG)
-
+### ![](.gitbook/assets/wood_cover.JPG)
 

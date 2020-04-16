@@ -3,6 +3,7 @@
 I love software and non software tools that help me in some way. Most tools I use & like are mentioned appropriately in other parts of the wiki.
 
 ## Other
+
 * [is.gd](https://is.gd/index.php) - URL shortener with options like make the new URL pronouncable or create QR code.
 * [Gravatar](https://en.gravatar.com/) - Attach an image to an email and websites supporting Gravatar will simply pick up the image you specified.
 * [Calendly](https://calendly.com/) - Schedule meetings.
