@@ -1,2 +1,0 @@
-# Affinity Designer
-
