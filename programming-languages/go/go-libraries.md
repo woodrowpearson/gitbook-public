@@ -1,7 +1,7 @@
 # Go libraries
 
 ## CLI
-
+- [ProtoActor-Go](http://proto.actor/) - In beta for Go but.. Ultra fast distributed actors for Go, C# and Java/Kotlin
 - [Flaggy](https://github.com/integrii/flaggy) - Idiomatic Go input parsing with subcommands, positional values, and flags at any position.
 - [cli](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go.
 - [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go.
