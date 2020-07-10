@@ -8,5 +8,9 @@ Hi! I'm Woodrow, or Woody for short. I have been a practicing developer for abou
 
 Be humble, empathetic, & always maintain the attitude of a student.
 
+## Cover Letter
+
+If you want to add some color and detail to the portrait of who I am and where I am in my life and career take a peek at my [Cover Letter](footprint/cover-letter)
+
 ### ![](.gitbook/assets/wood_cover.JPG)
 
