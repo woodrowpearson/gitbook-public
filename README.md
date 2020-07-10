@@ -6,7 +6,7 @@ This site is my attempt to organize and digest the flood of information I have c
 
 Hi! I'm Woodrow, or Woody for short. I have been a practicing developer for about 7 years with most roles being infrastructure or SRE roles. I moved home to Washington in 2018 for family reasons. Currently I work remotely, but am seeking a position in Seattle. When not working I spend my time volunteering as a STEM high school teacher, & as a freshmen basketball coach in the Winter season.
 
-Be humble, empathetic, & always maintain the attitude of a student. 
+Be humble, empathetic, & always maintain the attitude of a student.
 
 ### ![](.gitbook/assets/wood_cover.JPG)
 

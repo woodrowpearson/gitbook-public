@@ -4,9 +4,7 @@ Unlike real life, I don't have a large footprint on the internet. My OSS contrib
 
 ## Cover Letter
 
-
-
-
 ## My Code
-[My code gists](https://woodrowpearson.gitbook.io/code-gists)
-A mix of one liners, snippets, and interview question answers I have compiled. This site is relatively new so I apologize for it being a bit difficult to navigate.
+
+[My code gists](https://woodrowpearson.gitbook.io/code-gists) A mix of one liners, snippets, and interview question answers I have compiled. This site is relatively new so I apologize for it being a bit difficult to navigate.
+
