@@ -10,7 +10,7 @@ Be humble, empathetic, & always maintain the attitude of a student.
 
 ## Cover Letter
 
-If you want to add some color and detail to the portrait of who I am and where I am in my life and career take a peek at my [Cover Letter](footprint/cover-letter)
+If you want to add some color and detail to the portrait of who I am and where I am in my life and career take a peek at my [Cover Letter](https://github.com/woodrowpearson/gitbook-public/tree/ccc5e414b3232eb57c352196b0a724c8103f3a7b/footprint/cover-letter/README.md)
 
 ### ![](.gitbook/assets/wood_cover.JPG)
 
