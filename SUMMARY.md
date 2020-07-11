@@ -4,6 +4,7 @@
 * [Meta](meta/README.md)
   * [Worflow & Structure](meta/workflow-struct.md)
 * [Footprint](footprint.md)
+  * [Cover Letter](cover-letter.md)
 * [Cheatsheets](cheatsheets/README.md)
   * [Awesome-Cheatsheets](cheatsheets/awesome-cheatsheets.md)
 * [Writing](writing/README.md)
@@ -216,5 +217,4 @@
   * [sed](cli/sed.md)
   * [tmux](cli/tmux.md)
 * [Podcasts](podcasts.md)
-* [Cover Letter](cover-letter.md)
 
