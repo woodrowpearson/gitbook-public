@@ -4,6 +4,8 @@ Unlike real life, I don't have a large footprint on the internet. My OSS contrib
 
 ## Cover Letter
 
+If you want to add some color and detail to the portrait of who I am and where I am in my life and career take a peek at my [Cover Letter](footprint/cover-letter.md).
+
 ## My Code
 
 [My code gists](https://woodrowpearson.gitbook.io/code-gists) A mix of one liners, snippets, and interview question answers I have compiled. This site is relatively new so I apologize for it being a bit difficult to navigate.
