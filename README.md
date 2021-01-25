@@ -1,4 +1,12 @@
+---
+description: Update 01/26/2021
+---
+
 # Hello World
+
+I took a bit of a break from updating this site and unplugged from the tech world in general. But after seeing what's out there I still love computers. I am going to be updating my wiki regularly and do some cleanup on links while I start to study for interviews and continue coaching high school basketball. Day 1 of training for the season starts today!
+
+
 
 This site is my attempt to organize and digest the flood of information I have culminated over the years. I can't claim to have more than a sophomoric understanding of many of the topics I add to this wiki. While it 99.99% for my own personal use, if someone by chance stumbles in here I hope they find it useful!
 
